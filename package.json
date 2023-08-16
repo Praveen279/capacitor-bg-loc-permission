@@ -1,6 +1,6 @@
 {
   "name": "capacitor-bg-loc-permission",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This plugin is to show second location permission popup to enable always permission in background",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
