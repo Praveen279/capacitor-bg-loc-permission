@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "BGLocPermissionPlugin",
+    "slug": "bglocpermissionplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "reqPerm",
+        "signature": "() => Promise<void>",
+        "parameters": [],
+        "returns": "Promise<void>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "reqperm"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
