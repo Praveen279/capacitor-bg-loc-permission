@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Praveen279/capacitor-bg-loc-permission.git.git"
+    "url": "git+https://github.com/Praveen279/capacitor-bg-loc-permission.git"
   },
   "bugs": {
     "url": "https://github.com/Praveen279/capacitor-bg-loc-permission.git/issues"
